@@ -1,0 +1,16 @@
+{
+  "name": "typescript-start",
+  "version": "1.0.0",
+  "description": "\"Basic ts file\"",
+  "main": "typescript.js",
+  "scripts": {
+    "start": "node ./typescript.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "Me",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
