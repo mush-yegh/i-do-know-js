@@ -1,0 +1,15 @@
+{
+  "name": "chapter-7",
+  "version": "1.0.0",
+  "description": "Shape, Square, Triangle",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Me",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
